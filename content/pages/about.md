@@ -1,5 +1,5 @@
 ---
-title: About Youval
+title: 'About Youval, new text'
 seo:
   title: About
   description: This is the about page
